@@ -1,7 +1,7 @@
 # NutssssIndex
 简约个人主页、自适应  
-[预览](https://n0ts.cn/nutssss1/)
-![alt 预览图](https://images.gitee.com/uploads/images/2020/0525/000514_3cb0b6fa_2250179.png)
+[预览](https://missyao.ml/)
+![alt 预览图](http://rj5s4vapr.sabkt.gdipper.com/WechatIMG5.png)
 
 ## 简介
 两天时间写了一个练手作品  
@@ -12,16 +12,5 @@
 
 ## 使用方法
 这还要看嘛？
-
-## QQ群讨论
-
-[坚果茶馆](https://jq.qq.com/?_wv=1027&k=Mh7ah6Dd)
-
-<!-- 页脚 -->
-    <!div id="footer">
-        <p>© 2020 NUTSSSS | <a href="http://beian.miit.gov.cn">湘ICP备18015792号</a></p>
-        <p>THEME MADE BY <a href="https://nutssss.cn/">Nutssss</a></p>
-    </div>
-</body>
 
 </html>
